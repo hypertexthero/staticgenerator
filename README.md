@@ -1,0 +1,4 @@
+staticgenerator
+===============
+
+django-staticgenerator clone
